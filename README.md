@@ -1,5 +1,5 @@
-# GSheetConnector for CF7  
-**Connect Contact Form 7 to Google Sheets – Send Form Submissions in Real Time**
+# CF7 Google Sheet Connector - Connect & Send Form Submissions in Real Time  
+**Connect CF7 to Google Sheets – Send Form Submissions in Real Time**
 
 ![WordPress Plugin Version](https://img.shields.io/badge/stable-5.1.4-brightgreen)
 ![Tested up to WordPress](https://img.shields.io/badge/WordPress-6.8-blue)
@@ -10,23 +10,22 @@
 
 ## 📌 Overview
 
-**GSheetConnector for CF7** is a popular WordPress addon plugin that seamlessly connects **Contact Form 7** with **Google Sheets**.
+**CF7 Google Sheet Connector** is a popular WordPress addon plugin, A bridge between your **[WordPress](https://wordpress.org/)** based **[Contact Form 7](https://wordpress.org/plugins/contact-form-7/)** with **Google Sheets**.
 
-Whenever a visitor submits a Contact Form 7 form, the submitted data is **instantly sent to your Google Sheets spreadsheet** — no manual exports, no copy-paste, no errors.
+Whenever a visitor submits a Contact Form 7 form, the submitted data is **instantly sent to your Google Sheets Spreadsheet** — no manual exports, no copy-paste, no errors.
 
-> A reliable bridge between WordPress forms and Google Sheets.
+> **A reliable bridge between [WordPress Contact Forms and Google Sheets](https://www.gsheetconnector.com/plugins).**
 
----
+📘 **[Setup Documentation](https://www.gsheetconnector.com/docs/cf7-gsheetconnector)** | 🎯 **[Live Demo](https://demo.gsheetconnector.com/cf7-google-sheet-connector-pro/)** | ⭐ **[PRO Advance Features](https://www.gsheetconnector.com/cf7-google-sheet-connector-pro?wp-repo)**   
 
-## 🔗 Important Links
+## 📝 CF7 ➜ ✍️Google Sheet
+Contact Form 7 (CF7) is one of the most popular free WordPress contact form plugins, with 10+ million active installations worldwide.
 
-- 🌐 **Homepage:** https://www.gsheetconnector.com/  
-- 📘 **Documentation:** https://www.gsheetconnector.com/docs/cf7-gsheetconnector  
-- 🧑‍💻 **Support:** https://www.gsheetconnector.com/support/  
-- 🎯 **Live Demo:** https://demo.gsheetconnector.com/cf7-google-sheet-connector-pro/  
-- ⭐ **Premium Version:** https://www.gsheetconnector.com/cf7-google-sheet-connector-pro?wp-repo  
+Since millions of websites use Contact Form 7 to collect leads and inquiries, **CF7 Google Sheet Connector** helps store those form submissions in Google Sheets automatically.
 
----
+With real-time syncing, all CF7 form entries are sent to Google Sheets instantly — no manual exports, no copy-paste, and no coding required.
+
+Google Sheet Connector PRO adds advanced automation, file upload support, database storage, and custom mail tag handling for Contact Form 7 Google Sheets integration.
 
 ## ✨ Features (Free Version)
 
