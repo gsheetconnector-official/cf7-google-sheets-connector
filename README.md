@@ -113,7 +113,7 @@ Managing Contact Form 7 submissions manually can be time-consuming and error-pro
 This plugin is ideal for website owners, businesses, and teams who want a simple, reliable way to store, organize, and analyze Contact Form 7 data without writing code or using complex tools.
 
 With instant syncing, centralized data storage, and seamless Google Sheets integration, **CF7 Google Sheet Connector** helps you save time, reduce errors, and streamline your workflow.
-    
+
 ---
 
 ## 🛠 How It Works
@@ -238,7 +238,7 @@ Once connected, enter the Google Sheet details in your Contact Form 7 settings a
 
 - **Contributors:** westerndeal, abdullah17, gsheetconnector  
 - **Requires WordPress:** 3.6+  
-- **Tested up to:** 6.8  
+- **Tested up to:** 6.9
 - **Requires PHP:** 7.4+  
 - **Requires Plugin:** Contact Form 7  
 - **Stable Version:** 5.1.4  
