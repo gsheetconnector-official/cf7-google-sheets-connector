@@ -192,30 +192,30 @@ With instant syncing, centralized data storage, and seamless Google Sheets integ
 
 ## ❓ Frequently Asked Questions
 
-## Does this plugin require coding knowledge?
+= Does this plugin require coding knowledge? =
 No. CF7 Google Sheet Connector is designed for non-technical users. You can connect Contact Form 7 to Google Sheets using a simple setup process—no coding required.
 
-## Are Contact Form 7 submissions synced in real time?
+= Are Contact Form 7 submissions synced in real time? =
 
 Yes. All Contact Form 7 submissions are synced to Google Sheets instantly after form submission.
 
-## Can I connect multiple Contact Form 7 forms to Google Sheets?
+= Can I connect multiple Contact Form 7 forms to Google Sheets? =
 
 Yes. You can connect multiple Contact Form 7 forms to Google Sheets. Each form can use its own spreadsheet or worksheet, based on your configuration.
 
-## Is my Google account data secure?
+= Is my Google account data secure? =
 
 Yes. The plugin uses secure Google authentication via an access code. No Google account credentials are stored on your website.
 
-## Does this plugin work with the latest version of Contact Form 7?
+= Does this plugin work with the latest version of Contact Form 7? =
 
 Yes. CF7 Google Sheet Connector is fully compatible with the latest versions of WordPress and Contact Form 7.
 
-## What additional features are available in the PRO version?
+= What additional features are available in the PRO version? =
 
 The PRO version includes advanced automation, file upload support, database storage, custom and special mail tag handling, syncing existing entries, and enhanced customization options.
 
-## Why is the Contact Form 7 submission stuck (spinning) and data not sent to Google Sheets?
+= Why is the Contact Form 7 submission stuck (spinning) and data not sent to Google Sheets? =
 
 This usually happens due to configuration issues. Common causes include:
 1. Invalid or expired Google Access Code
@@ -223,7 +223,7 @@ This usually happens due to configuration issues. Common causes include:
 3. Column header mismatch between Contact Form 7 mail tags and Google Sheet headers
 Please check the **Debug Logs** and verify that all field mappings and sheet details are correct.
 
-## How do I generate the Google Access Code?
+= How do I generate the Google Access Code? =
 
 Follow these steps to generate and connect your Google Access Code:
 1. Go to Contact Form 7 → Google Sheets in your WordPress admin
@@ -231,6 +231,31 @@ Follow these steps to generate and connect your Google Access Code:
 3. Authorize access to your Google account
 4. Automatically generated access code will be shown, **Click to Save the Authentication Code**
 Once connected, enter the Google Sheet details in your Contact Form 7 settings and map the field mail tags to the selected sheet columns. After saving the configuration, Contact Form 7 submissions will start syncing to Google Sheets automatically.
+
+= Is it possible to sync data only after a successful payment (PayPal / Stripe)? =
+
+Yes. The PRO version supports conditional syncing, allowing form submissions to be sent to Google Sheets only after a successful payment via PayPal or Stripe.
+
+= How does the plugin track when the form was submitted? =
+
+You can enable the Submission Date & Time option to record when each form entry is submitted. The data can be stored in Google Sheets using a simple date or date-time column format.
+
+= Can I reorder, add, or edit header columns in Google Sheets? =
+
+Yes. The PRO version allows you to:
+- Reorder Google Sheet columns
+- Add or edit header names
+- Enable or disable specific fields before syncing
+- This gives you full control over how Contact Form 7 data is structured in Google Sheets.
+
+= Is this plugin compatible with popular third-party Contact Form 7 addons? =
+
+Yes. CF7 Google Sheet Connector is compatible with major third-party Contact Form 7 addons, including:
+- CF7 Conditional Fields
+- PayPal addons
+- Stripe addons
+Other popular CF7 extensions
+The PRO version provides enhanced compatibility and conditional workflow support.
 
 ---
 
