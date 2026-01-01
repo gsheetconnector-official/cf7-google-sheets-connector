@@ -26,16 +26,19 @@ With real-time syncing, all form entries are captured instantly and saved perfec
 
 ## Key Benefits
 
-- Real-time sync of Contact Form 7 submissions to Google Sheets
-- Automatic export of all form entries to a single spreadsheet
-- Centralized data storage for easy access, sharing, and reporting
-- Eliminates manual exports and copy-paste errors
-- Lightweight, secure, and performance-friendly integration
+- ✅ Real-time sync of Contact Form 7 submissions to Google Sheets
+- ✅ Automatic export of all form entries to a single spreadsheet
+- ✅ Centralized data storage for easy access, sharing, and reporting
+- ✅ Eliminates manual exports and copy-paste errors
+- ✅ Lightweight, secure, and performance-friendly integration
+- ✅ One-time setup
+
 
 ## Feature Highlights
 - 📤 Send Contact Form 7 submissions to Google Sheets
-- ⚡ Real-time data synchronization
+- 🔄 Real-time Sync with Google Sheets
 - 🧾 Manual column/header mapping using CF7 mail tags
+- 📥 View linked spreadsheet directly from the plugin settings
 - 🔐 Secure Google authentication via Access Code
 - 🛠 Debug logs for troubleshooting
 - 🧩 Compatible with latest WordPress & CF7 versions
@@ -52,18 +55,20 @@ Google Sheet Connector PRO extends this integration with advanced automation and
 
 **[CF7 Google Sheet Connector PRO](https://www.gsheetconnector.com/cf7-google-sheet-connector-pro?wp-repo)** adds advanced automation and extended features, advanced capabilities including: 
 
-- 📎 File upload support with direct file links saved in Google Sheets
-- 🗄 Database storage for all Contact Form 7 submissions
-- 🏷 Custom mail tag support for flexible field mapping
-- 🔖 Full support for CF7 special mail tags
-- ⚙️ Advanced automation for complex Contact Form 7 workflows
+- 📎 **File upload support** with direct file links saved in Google Sheets
+- 🗄 **Database storage** for all Contact Form 7 submissions
+- 🏷 **Custom mail tag** support for flexible field mapping
+- 🔖 **Full support for CF7 special mail tags**
+- ⚙️ **Advanced automation** for complex Contact Form 7 workflows
 
 
 ## Additional CF7 Google Sheet Connector PRO Enhancements
 
-✔ Custom Google API integration
+✔ Custom Google API Integration & Service Account Integration
 
-✔ Create new Google Sheets directly from the plugin settings
+✔ Create New Google Sheets directly from the plugin settings
+
+🧩 Auto-creates Google Sheet headers based on form fields
 
 ✔ Enable, disable, and reorder fields & reorder columns before syncing
 
@@ -83,14 +88,31 @@ Upgrade to **GSheetConnector PRO for CF7** to unlock powerful automation feature
 👉 **[Compare Free vs PRO](https://www.gsheetconnector.com/cf7-google-sheet-connector-pro#compare)**  
 
 
-
-
----
-
-## 📊 Live Demo
+## 🛠️ Save Contact Forms 7 Entries to Google Sheets 📊 Live Demo
 
 - 🔗 **[Demo Site](https://demo.gsheetconnector.com/cf7-google-sheet-connector-pro/)**   
-- 📄 **[Sample Google Sheet](https://docs.google.com/spreadsheets/d/1Ftht9knBeuzcvZlzM4Wz6L8qsV4PiDU5ukFlFq9M6PU/edit#gid=0)**  
+- 📄 **[Sample Google Sheet](https://docs.google.com/spreadsheets/d/1Ftht9knBeuzcvZlzM4Wz6L8qsV4PiDU5ukFlFq9M6PU/edit#gid=0)**
+
+## 📘 Documentation & Support
+Refer to the help docs
+Feel free to Reach out to our support team
+
+## 📣 Trusted by Over 40,000+ Customers
+**CF7 Google Sheet Connector** is trusted by **40,000+ users worldwide,** including businesses, agencies, developers, and site owners who rely on Contact Form 7 for collecting leads and inquiries.
+
+The plugin is actively used across a wide range of WordPress websites to securely sync Contact Form 7 submissions with Google Sheets, helping teams manage data efficiently with confidence and reliability.
+
+## ▶ How To’s Video
+## How to Send Contact Form 7 Entries to Google Sheet?
+video embed code
+
+## 💡 Why Use This Plugin?
+
+Managing Contact Form 7 submissions manually can be time-consuming and error-prone. **CF7 Google Sheet Connector** eliminates manual exports and copy-paste work by automatically syncing form entries to Google Sheets in real time.
+
+This plugin is ideal for website owners, businesses, and teams who want a simple, reliable way to store, organize, and analyze Contact Form 7 data without writing code or using complex tools.
+
+With instant syncing, centralized data storage, and seamless Google Sheets integration, **CF7 Google Sheet Connector** helps you save time, reduce errors, and streamline your workflow.
     
 ---
 
@@ -113,10 +135,10 @@ Upgrade to **GSheetConnector PRO for CF7** to unlock powerful automation feature
 ---
 
 ### Step 3 – Column Mapping
-1. Add headers in **Row 1** of your Google Sheet  
-2. First column must be `date`
-3. Add CF7 mail tags as headers (e.g. `your-name`, `your-email`)
-4. Submit the form and verify data sync
+1. Add headers in **Row 1** of your Google Sheet
+2. Add CF7 mail tags as headers **(e.g. `your-name`, `your-email`)**
+3. Add **date** column (prefered to add in first column)
+5. Submit the form and verify data sync
 
 ---
 
@@ -170,24 +192,45 @@ Upgrade to **GSheetConnector PRO for CF7** to unlock powerful automation feature
 
 ## ❓ Frequently Asked Questions
 
-### Why is CF7 submission spinning and data not sent?
+## Does this plugin require coding knowledge?
+No. CF7 Google Sheet Connector is designed for non-technical users. You can connect Contact Form 7 to Google Sheets using a simple setup process—no coding required.
 
-Common reasons:
-1. Invalid or expired Access Code
-2. Incorrect Sheet or Tab name
-3. Column headers mismatch
+## Are Contact Form 7 submissions synced in real time?
 
-Check **Debug Logs** and verify mappings.
+Yes. All Contact Form 7 submissions are synced to Google Sheets instantly after form submission.
 
----
+## Can I connect multiple Contact Form 7 forms to Google Sheets?
 
-### How do I get the Google Access Code?
+Yes. You can connect multiple Contact Form 7 forms to Google Sheets. Each form can use its own spreadsheet or worksheet, based on your configuration.
 
-1. Go to **Contact Form 7 → Google Sheets**
-2. Click **Get Code**
-3. Authorize Google access
-4. Copy the generated code
-5. Paste it back into plugin settings
+## Is my Google account data secure?
+
+Yes. The plugin uses secure Google authentication via an access code. No Google account credentials are stored on your website.
+
+## Does this plugin work with the latest version of Contact Form 7?
+
+Yes. CF7 Google Sheet Connector is fully compatible with the latest versions of WordPress and Contact Form 7.
+
+## What additional features are available in the PRO version?
+
+The PRO version includes advanced automation, file upload support, database storage, custom and special mail tag handling, syncing existing entries, and enhanced customization options.
+
+## Why is the Contact Form 7 submission stuck (spinning) and data not sent to Google Sheets?
+
+This usually happens due to configuration issues. Common causes include:
+1. Invalid or expired Google Access Code
+2. Incorrect Google Sheet Name or SheetID  or worksheet (tab name or tab id)
+3. Column header mismatch between Contact Form 7 mail tags and Google Sheet headers
+Please check the **Debug Logs** and verify that all field mappings and sheet details are correct.
+
+## How do I generate the Google Access Code?
+
+Follow these steps to generate and connect your Google Access Code:
+1. Go to Contact Form 7 → Google Sheets in your WordPress admin
+2. Click Google Signin Button to Get Code
+3. Authorize access to your Google account
+4. Automatically generated access code will be shown, **Click to Save the Authentication Code**
+Once connected, enter the Google Sheet details in your Contact Form 7 settings and map the field mail tags to the selected sheet columns. After saving the configuration, Contact Form 7 submissions will start syncing to Google Sheets automatically.
 
 ---
 
